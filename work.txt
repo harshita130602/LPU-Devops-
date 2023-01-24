@@ -1,0 +1,61 @@
+1.)Version Control System is the environment that use to track the files or work time to time when we are doing it 
+
+2.)Version Control Sysytem is develop to track the files the necessities where if by mistake the files got deleted we can track back that file
+
+3.)There are two types of version control: centralized and distributed.
+
+4.)centralied version control system-
+     .)relies on central server
+     .)can't clone
+     .)Merging and branching is hard
+   
+
+   distributed version control system-
+      .)Does not relies on central server
+      .)can clone
+      .)Merging and branching is easy
+
+5.)Git is open source project use to track files
+
+6.)Easy to create repo 
+   Easy to clone repo
+
+7.) git init -- to inizialize git
+    git status -- to get the status of file
+    git add . -- to add the file in staging area
+
+8.) No git is more like cli where as github is gui
+
+9.)git --version
+
+10.) git add .
+
+11) git status gives the status of files where as log gives history of files
+
+12) git init
+
+13) git add . -- adding the file to staging area
+    git commit -m "yo yo" commiting the changes
+
+14)False we have commands for that
+
+15) git commit -m "yo yo"
+
+16) git commit -m "mew email"
+
+17)
+
+18)branch is part of repo where we can work without affecting the main branch
+
+19) git checkout new-email
+
+20)  git checkout -b new-email
+
+21.)
+
+22.)initialize the git in the folder
+
+23.)fork is creating copy of that repo in your account 
+
+24.)push means want to merg the branch with main branch
+    git push origin <branchname>
